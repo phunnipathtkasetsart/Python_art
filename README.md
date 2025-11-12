@@ -12,3 +12,5 @@ The program randomly generates location , pen size , colors , and patterns for d
 - Three sub shape random
 - Three sub shape and Three shape random
   
+## Running the program :
+Constanlty test shape by inputting 1 - 9 choices then close and reopen constantly
